@@ -1,0 +1,8 @@
+{
+  "repo": "moomooskycow/wikilens",
+  "source_commit": "0003907292f5294468d6af68defd117ed90d6bea",
+  "source_folder": ".",
+  "project_prefix": "wikilens",
+  "before_url": "https://moomooskycow.github.io/wikilens/",
+  "build_kind": "static"
+}
